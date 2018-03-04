@@ -1,0 +1,5 @@
+O código desta pasta mostra a resolução de um problema clássico de classificação de imagem utilizando
+uma rede neural convolucional para classificar as imagens de entrada entre: Cachorro e Gato.
+
+O conjunto de dados das imagens pode ser encontrado no link:
+Section 40: https://www.superdatascience.com/machine-learning/

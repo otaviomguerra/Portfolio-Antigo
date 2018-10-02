@@ -5,6 +5,8 @@ O propósito desse repositório é mostrar minhas habilidades pessoais com Pytho
 
 Otávio Guerra - Universidade Federal do Ceará - 2018
 
+English Version:
+
 Here are some of my personal practices in data science using Python as the main tool.
 
 The purpose of this repository is to show my personal abilities with Data Analysis and Machine Learning and, at the same time, help someone interested in learn something from these codes presented in here.

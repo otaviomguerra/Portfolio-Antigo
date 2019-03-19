@@ -4,7 +4,7 @@ Aqui estão alguns dos meus projetos pessoais em Data Science usando Python como
 
 O propósito desse repositório é mostrar minhas habilidades pessoais com Python para Análise de Dados e Aprendizado de Máquina e, ao mesmo tempo, ajudar alguém interessado em aprender algo com os códigos aqui presentes.
 
-### A [primeira pasta](https://github.com/otaviomguerra/Portifolio/) contém algumas analises feitas utilizando Jupyter Notebooks e na [segunda](https://github.com/otaviomguerra/Portifolio) esta um repositório com codigos dos mais diversos algoritmos de classificação, regressão, agrupamento, Deep Learnig etc aplicados a alguns problemas.
+### A [primeira pasta](https://github.com/otaviomguerra/Portifolio/tree/master/End-to-End%20ML%20Projects%20in%20Jupyter%20Notebooks) contém algumas analises feitas utilizando Jupyter Notebooks e na [segunda](https://github.com/otaviomguerra/Portifolio/tree/master/Machine%20Learning%20Algorithms%20Applied) esta um repositório com codigos dos mais diversos algoritmos de classificação, regressão, agrupamento, Deep Learnig etc aplicados a alguns problemas.
 
 Otávio Guerra - Universidade Federal do Ceará
 

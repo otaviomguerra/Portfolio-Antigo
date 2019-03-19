@@ -1,16 +1,16 @@
 # Classification
 
 ### [Cancer de Mama]():
-- Dataset:
-- Objetivo:
-- Resultados:
+- **Dataset**:
+- **Objetivo**:
+- **Resultados**:
 
 ### [Emprestimos]():
-- Dataset:
-- Objetivo:
-- Resultados:
+- **Dataset**:
+- **Objetivo**:
+- **Resultados**:
 
 ### [Titanic Challenge]():
-- Dataset:
-- Objetivo:
-- Resultados:
+- **Dataset**:
+- **Objetivo**:
+- **Resultados**:

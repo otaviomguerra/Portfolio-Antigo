@@ -3,7 +3,7 @@ Aqui estão alguns dos meus projetos pessoais em Data Science usando Python como
 
 O propósito desse repositório é mostrar minhas habilidades pessoais com Python para Análise de Dados e Aprendizado de Máquina e, ao mesmo tempo, ajudar alguém interessado em aprender algo com os códigos aqui presentes.
 
-### A primeira pasta contém algumas analises feitas utilizando Jupyter Notebooks e na segunda esta um repositório com codigos dos mais diversos algoritmos de classificação, regressão, agrupamento, deep Learnig etc aplicados a alguns problemas simples.
+### A primeira pasta contém algumas analises feitas utilizando Jupyter Notebooks e na segunda esta um repositório com codigos dos mais diversos algoritmos de classificação, regressão, agrupamento, Deep Learnig etc aplicados a alguns problemas simples.
 
 Otávio Guerra - Universidade Federal do Ceará - 2018
 

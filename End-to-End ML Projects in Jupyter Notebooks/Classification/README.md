@@ -11,6 +11,6 @@
 - **Resultados**: Após avaliados diversos algoritmos foi observado que uma simples Regressão Logística obteve os melhores resultados: Acurácia média utilizando 10-fold cross-validation de 81,75%. Vale ressaltar que o algoritmo obteve tal resultado sem uma otimização de hiperparâmetros.
 
 ### [Titanic Challenge](https://github.com/otaviomguerra/Portifolio/tree/master/End-to-End%20ML%20Projects%20in%20Jupyter%20Notebooks/Classification/Titanic):
-- **Dataset**:
-- **Objetivo**:
-- **Resultados**:
+- **Dataset**: O titanic challenge foi um desafio lançado pelo site kaggle.com para tentar prever os sobreviventes da tragédia do titanic beseando-se em algumas informações sobre os passageiros.
+- **Objetivo**: O Objetivo é treinar um classificador que seja capaz de prever o status do passageiro após o acidente(sobrevivente vs não-sobrevivente).
+- **Resultados**: Utilizando o algoritmo XGBoost obtemos uma acurácia média de 82,72% sem qualquer otimização de hiperparâmetros.
